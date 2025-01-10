@@ -1,3 +1,7 @@
 .main-globalNav-navLink {
   width: 35px;
 }
+
+.Root__globalNav .main-globalNav-navLink {
+  background-color: transparent;
+}

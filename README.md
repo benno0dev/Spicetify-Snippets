@@ -10,7 +10,7 @@ Preview: \
 ![Preview](https://raw.githubusercontent.com/benno0dev/Spicetify-Snippets/refs/heads/main/Preview/clockfix.png)
 
 ## [CustomApps-Fix](https://github.com/benno0dev/Spicetify-Snippets/blob/main/CustomApps-Fix.css)
-Makes the width between the custom apps shorter, so they all appear without clicking on an arrow \
+Makes the width between the custom apps shorter, so they all appear without clicking on an arrow (also removes the background circle some themes have) \
 \
 Preview:\
 ![Preview](https://raw.githubusercontent.com/benno0dev/Spicetify-Snippets/refs/heads/main/Preview/apps.png)
